@@ -21,11 +21,14 @@ The user can select the length and whether to include uppercase, lowercase, nume
 
 **Desktop**
 
+![Desktop Password Generator](./assets/readMeImages/desktopPasswordGenerator.png)
 
 
 **Tablet**
 
+![Tablet Password Generator](./assets/readMeImages/tabletPasswordGenerator.png)
 
 
 **Mobile**
 
+![Mobile Password Generator](./assets/readMeImages/mobilePasswordGenerator.png)
