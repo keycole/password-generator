@@ -1,6 +1,6 @@
 # Password Generator
 
-Link to published page:
+Link to published page:https://keycole.github.io/password-generator/
 
 
 ## Purpose
@@ -9,7 +9,7 @@ This app generates a random password from 8 - 128 characters.
 The user can select the length and whether to include uppercase, lowercase, numeric, and/or special characters.
 
 
-# Built With
+## Built With
 
 1. HTML, CSS, JS
 
@@ -17,7 +17,7 @@ The user can select the length and whether to include uppercase, lowercase, nume
 * Background image from https://unsplash.com/
 * Favicon from https://favicon.io/
 
-# Screenshots
+## Screenshots
 
 **Desktop**
 
