@@ -1,6 +1,6 @@
 # Password Generator
 
-Link to published page:
+Link to published page:https://keycole.github.io/password-generator/
 
 
 ## Purpose
